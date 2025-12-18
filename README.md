@@ -7,7 +7,7 @@ and MIS Reporting.
 - Excel (Pivot, VLOOKUP)
 - MIS Reporting
 - Hospital IPD Billing
-- Learning SQL & Power BI## Hi there 👋
+- Learning SQL & Power BI
 
 <!--
 **nafiz2425/Nafiz2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
