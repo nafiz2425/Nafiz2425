@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋 I'm Nafizuddin
+
+Aspiring Data Analyst with experience in IPD Billing
+and MIS Reporting.
+
+### Skills
+- Excel (Pivot, VLOOKUP)
+- MIS Reporting
+- Hospital IPD Billing
+- Learning SQL & Power BI## Hi there 👋
 
 <!--
 **nafiz2425/Nafiz2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
